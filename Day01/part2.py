@@ -1,6 +1,6 @@
 list1 = []
 list2 = []
-file = open("C:/Users/reyfp/code/advent_of_code_2024/Day01/input.txt", "r")
+file = open("./Day01/input.txt", "r")
 
 # read file data and separate it into two lists
 for line in file:
